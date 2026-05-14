@@ -1,0 +1,14 @@
+siem-blue-team-lab/
+│
+├── app.py
+├── siem/
+│   ├── parser.py
+│   ├── detector.py
+│   ├── rules.py
+│   └── alert.py
+│
+├── logs/
+│   └── sample.log
+│
+├── requirements.txt
+└── README.md
